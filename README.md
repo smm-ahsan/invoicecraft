@@ -31,7 +31,7 @@ No installation and nothing to pip install. Clone the repo and run it with
 Python 3:
 
 ```bash
-git clone https://github.com/ahsanhani/invoicecraft.git
+git clone https://github.com/smm-ahsan/invoicecraft.git
 cd invoicecraft
 python3 invoicecraft.py --help
 ```
